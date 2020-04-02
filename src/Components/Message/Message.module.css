@@ -1,0 +1,19 @@
+.container {
+    height: 85%;
+    overflow-y: scroll;
+    scrollbar-color: #aaa #eee;
+}
+
+.text {
+    color: rgb(122, 122, 122);
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.date {
+    text-align: right;
+    font-size: 1.1rem;
+    margin: 0;
+    font-weight: 600;
+    color: #aaa;
+}

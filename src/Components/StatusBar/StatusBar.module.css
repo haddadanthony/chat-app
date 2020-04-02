@@ -1,0 +1,9 @@
+input[name="name"] {
+    margin-left: 15px;
+}
+
+input[name="name"]:focus {
+    border: 1px solid lightgreen;
+    padding: 7px;
+    border-radius: 5px;
+}
